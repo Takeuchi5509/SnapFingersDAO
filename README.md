@@ -1,2 +1,3 @@
-# SnapFingersDAO
-CryptoWikiProject
+1.空投
+由一个项目分发给大量的人，以使他们了解该项目。
+识别虚拟货币内的骗局很重要，因为它们很常见。
